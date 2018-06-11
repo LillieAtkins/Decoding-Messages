@@ -1,7 +1,3 @@
-/*
- * I have neither given nor received any unauthorized aid on this assignment. --Lillie Atkins
- */
-
 public class Message {
 
 	private String encoded;
