@@ -1,6 +1,3 @@
-/*
- * I have neither given nor received any unauthorized aid on this assignment. --Lillie Atkins
- */
 
 import java.util.Arrays;
 
